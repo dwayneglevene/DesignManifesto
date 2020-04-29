@@ -1,0 +1,52 @@
+
+body{
+    background-color: rgb(242, 206, 153);
+}
+
+
+.jumbotron{
+   color:rgb(242, 206, 153);
+background-color: black;
+margin:0px;
+
+
+}
+.carousel{
+
+    padding-top:1px;
+}
+
+.container{
+    margin-top:40px;
+}
+
+.card-title,.card-text{
+
+    color:rgb(242, 206, 153)
+}
+.card{
+    text-align:center;
+    margin:10px;
+    
+    padding-top: 15px; 
+    border-radius: 10%;
+    
+}
+
+
+.card-header{
+    font-family: 'Alegreya', serif;
+
+}
+
+h1, .lead{
+    font-family: 'Cairo', sans-serif;
+    text-align: center;
+
+}
+#seperator{
+    margin-bottom:25px;
+}
+.bottom{
+    margin-bottom:35px
+}
